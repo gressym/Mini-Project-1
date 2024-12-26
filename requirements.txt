@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+IPython
+cohere
+requests
+joblib
+matplotlib 
+pytesseract 
+Pillow
+scikit-learn
+pandas
